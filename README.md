@@ -20,7 +20,7 @@ npm install -g serve
 ```
 
 
-### View in your preferred Browser
+### View in your preferred Browser after serve
 
 [localhost:5000](http://localhost:5000)
 
